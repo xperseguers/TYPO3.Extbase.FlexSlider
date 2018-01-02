@@ -19,7 +19,7 @@
 		"source": "https://github.com/sotastudio/TYPO3.Extbase.FlexSlider"
 	},
 	"require": {
-		"typo3/cms-core": "~7.6.0"
+		"typo3/cms-core": "^7.6 || ^8.7"
 	},
 	"suggest": {
 		"typo3-ter/t3jquery": "~3.0.3"
